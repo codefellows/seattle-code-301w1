@@ -1,5 +1,10 @@
 # APIs
 
+## In class takeaways
+
+- [Regex Replit](https://replit.com/@arpatterson31/Class-301d97-Regex)
+- [In Class Demo](inclass-demo/)
+
 ## Overview
 
 During this class we will use our express server to request information from third party APIs to send to the front-end.

@@ -1,5 +1,10 @@
 # Updating Resources
 
+## In Class takeaway
+
+- [In Class Demo](inclass-demo/)
+- [Whiteboard - Crud / Rest](whiteboard/CRUD-API-COMPARISONS.png)
+
 ## DEI Reminder
 
 In our next class we will discuss Diversity, Equity and Inclusion.  Be sure to complete [the reading assignment](https://codefellows.github.io/code-301-guide/curriculum/class-14/DISCUSSION) before class begins in order to achieve full credit for the activity.

@@ -1,5 +1,11 @@
 # Creating and Deleting Resources
 
+## In Class takeaways
+
+- [In Class demo](inclass-demo/)
+- [Whiteboard - Crud / Rest](whiteboard/crud-rest-chart.png)
+- [URL Anatomy](whiteboard/url-anatomy-all-together.png)
+
 ## Overview
 
 In this class, we will focus on the `C` and the `D` of the `CRUD`:`CREATE` and `DELETE`. We will discuss how to send a POST request and save that information in a MongoDB database and a DELETE request to remove information from the database.

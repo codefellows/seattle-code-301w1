@@ -1,5 +1,10 @@
 # Advanced Topics
 
+## In class takeaways
+
+- [Object Method Replit](https://replit.com/@arpatterson31/Class-301d97-Object-Methods)
+- [In Class Demo](inclass-demo/)
+
 ## Overview
 
 For this class we will dive a little bit deeper into Express and higher level programming in general, covering the following topics:

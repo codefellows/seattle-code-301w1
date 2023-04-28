@@ -1,5 +1,10 @@
 # Persistence
 
+## In Class takeaways
+
+- [Nested Array Replit](https://replit.com/@arpatterson31/Class-301d97-Nested-Arrays)
+- [In Class demo](inclass-demo/)
+
 ## Overview
 
 During this class we will talk about in-memory storage as well as dive deeper into modularization and refactorization.

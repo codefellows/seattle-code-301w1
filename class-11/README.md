@@ -1,5 +1,14 @@
 # MongoDB, Mongoose and Data Modeling
 
+## In Class takeaways
+
+- [Chaining Methods](https://replit.com/@arpatterson31/Class-301d97-Chaining)
+- [In Class demo](inclass-demo/)
+- [Whiteboards - Crud/Rest](whiteboards/crud-rest.png)
+- [Whiteboards - Relational Databases](whiteboards/relational-db.png)
+- [Whiteboards - Non-Relational Databases](whiteboards/non-relational-db.png)
+- [Whiteboards - Schema VS Model](whiteboards/schema-vs-model.png)
+
 ## Overview
 
 This is the beginning of our new project, a mobile-only book collection. You will be gradually working towards a full-scale application, complete with an express server, persistence in a MongoDB database, authentication, and the ability to view, add, update and delete books from your React front end.
